@@ -14,7 +14,7 @@
 | YouTube(Minato Note)     | https://www.youtube.com/channel/UChqlCHef7cu8j_u_Sgis-lw |
 | Vimeo(Minato86)          | https://vimeo.com/user78788395                           |
 | Pixiv(Minato86)          | https://www.pixiv.net/users/21745249                     |
-| Discord(Minato86)        | Minato86 (Uminekosan)#6885                               |
+| Discord(Minato86)        | 巳波みなと#6885                                          |
 | Scrapbox(Minato86)       | https://scrapbox.io/minato86/                            |
 | SoundCloud(Minato86)     | https://soundcloud.com/minatoo86                         |
 | Suzuri(Minato86)         | https://suzuri.jp/Minato86                               |
