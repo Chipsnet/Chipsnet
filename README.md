@@ -20,5 +20,5 @@
 ## Donation
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A81VPXD)
-
+[![](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/minato86/donate)
 [Donate with brave](https://brave.com/ope682)
