@@ -22,8 +22,3 @@
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A81VPXD)
 
 [Donate with brave](https://brave.com/ope682)
-
-[Become a patreon](https://www.patreon.com/bePatron?u=26743872)
-
-
-
