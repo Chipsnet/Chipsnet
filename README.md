@@ -1,5 +1,7 @@
 # 巳波みなと / Minato Minami (Chipsnet)
 
+[![chipsnet's github stats](https://github-readme-stats.vercel.app/api?username=chipsnet)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🌱 Virtual Programmer
 - 🖌 Web Designer
 
