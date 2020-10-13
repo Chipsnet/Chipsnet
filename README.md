@@ -58,7 +58,8 @@ WARBot には便利機能などがあり、WARMusic は音楽 Bot です。
 ### TokyoUnderground
 
 楽曲プロモーションネットワーク兼レーベル。      
-たまにコンピレーションをやったり音楽関係の活動をしています。
+たまにコンピレーションをやったり音楽関係の活動をしています。        
+TeamOpenWorldにて運営。
 
 🔗HP: https://tokyounderground.net/     
 🕊Twitter: https://twitter.com/undergrounet
