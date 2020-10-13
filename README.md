@@ -8,8 +8,8 @@
     Developer / Creator
 </p>
 <p align="center">
-    <img src="https://www.ko-fi.com/img/githubbutton_sm.svg" href="https://ko-fi.com/A0A81VPXD" target="_blank">
-    <img src="https://liberapay.com/assets/widgets/donate.svg" href="https://liberapay.com/minato86/donate" target="_blank">
+    <a href="https://ko-fi.com/A0A81VPXD" target="_blank"><img src="https://www.ko-fi.com/img/githubbutton_sm.svg"></a>
+    <a href="https://liberapay.com/minato86/donate" target="_blank"><img src="https://liberapay.com/assets/widgets/donate.svg"></img></a>
 </p>
 
 # About
