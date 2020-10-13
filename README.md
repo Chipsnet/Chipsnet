@@ -22,7 +22,7 @@
 
 運営中のサービス一覧です。
 
-## 限界大会
+### 限界大会
 
 クリエイター向け創作企画「限界大会」を運営しています。      
 「思いっきり創作しよう」がテーマの、誰でも参加可能な創作大会です。
@@ -32,7 +32,7 @@
 🛒Suzuri: https://suzuri.jp/Minato86/omoide/17060       
 📞Discord: https://discord.com/invite/6tAqA7s       
 
-## WARBot / WARMusic
+### WARBot / WARMusic
 
 Discord の Bot です。       
 WARBot には便利機能などがあり、WARMusic は音楽 Bot です。
@@ -42,7 +42,7 @@ WARBot には便利機能などがあり、WARMusic は音楽 Bot です。
 🤖WARBot: https://discord.com/api/oauth2/authorize?client_id=473006066116984842&permissions=8&scope=bot     
 🎶WARMusic: https://discord.com/api/oauth2/authorize?client_id=550769348944330797&permissions=8&scope=bot
 
-## OpenWorld.net (Misskey)
+### OpenWorld.net (Misskey)
 
 分散型ミニブログサーバー Misskey のインスタンス、OpenWorld.net を運営しています。       
 自由に登録が可能で、マナーと公序良俗に反しなければ特にルールはありません。
