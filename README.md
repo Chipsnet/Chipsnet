@@ -48,6 +48,13 @@ WARBot には便利機能などがあり、WARMusic は音楽 Bot です。
 
 🌌OpenWorld.net: https://misskey.open-w.net/
 
+### 限界合作
+
+不定期に開催している映像の合作企画です。        
+限界大会とは違い、クリエイターの晴れ舞台を目指して、最高クオリティの合作作品を投稿する企画です。
+
+▶Playlist: https://www.youtube.com/playlist?list=PLPRh71R74VuIbyk6N7dPzghMUQN6oIAM0
+
 # Software
 
 ### BlenderHub
@@ -71,6 +78,15 @@ Blender用のバージョン管理ツールです。
 
 🔗HP: https://open-w.net/       
 🕊Twitter: https://twitter.com/openworld_net
+
+### 限界音楽村
+
+インターネット音楽レーベルです。        
+基本ゆるーく活動しています。
+
+🔗HP: https://genkaimusic.com/      
+🕊Twitter: https://twitter.com/genkaimusic      
+☁SoundCloud: https://soundcloud.com/genkaimusic
 
 # Accounts
 
