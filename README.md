@@ -104,7 +104,7 @@ Blender用のバージョン管理ツールです。
 
 # Websites
 
-🏚HP: https://minato86.me/
+🏚HP: https://minato86.me/      
 ✒Blog: http://blog.minato86.me
 
 # Accounts
