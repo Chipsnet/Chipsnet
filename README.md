@@ -48,6 +48,15 @@ WARBot には便利機能などがあり、WARMusic は音楽 Bot です。
 
 🌌OpenWorld.net: https://misskey.open-w.net/
 
+# Software
+
+### BlenderHub
+
+Blender用のバージョン管理ツールです。       
+インストール済みのBlender管理の他zipファイルからインストールしたBlenderも管理できます。
+
+💻Github: https://github.com/Chipsnet/blender-hub
+
 # Accounts
 
 |     |          |                                                    |     |         |                                                                      |     |            |                                                    |
