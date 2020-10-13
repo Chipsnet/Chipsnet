@@ -1,16 +1,54 @@
-# 巳波みなと / Minato Minami (Chipsnet)
+<div style="text-align: center;">
+<img src="https://i.gyazo.com/f1474692c18a4db231034524dd85b794.jpg" width="150">
+    <h3>
+        巳波みなと / Minami Minato
+    </h3>
+    <p>
+        Developer / Creator
+    </p>
+    <img src="https://www.ko-fi.com/img/githubbutton_sm.svg" href="https://ko-fi.com/A0A81VPXD" target="_blank"><img src="https://liberapay.com/assets/widgets/donate.svg" href="https://liberapay.com/minato86/donate" target="_blank">
+</div>
 
-![chipsnet's github stats](https://github-readme-stats.vercel.app/api?username=chipsnet&show_icons=true)
 
-- 🌱 Virtual Programmer
-- 🖌 Web Designer
 
-## Organization
+# About
 
-- [TeamOpenWorld](https://github.com/TeamOpenWorld)
-- ProjectGenkai
+開発者でありクリエイターな学生です。
 
-## Accounts
+普段はプログラムを書いたりウェブデザインをしながら企画などの運営をインターネット上でやっています。
+
+# Services
+
+運営中のサービス一覧です。
+
+## 限界大会
+
+クリエイター向け創作企画「限界大会」を運営しています。
+「思いっきり創作しよう」がテーマの、誰でも参加可能な創作大会です。
+
+🔗HP: https://genkai.open-w.net
+🕊Twitter: https://twitter.com/genkai_eizo
+🛒Suzuri: https://suzuri.jp/Minato86/omoide/17060
+📞Discord: https://discord.com/invite/6tAqA7s
+
+## WARBot / WARMusic
+
+DiscordのBotです。
+WARBotには便利機能などがあり、WARMusicは音楽Botです。
+
+通常、音楽Botは有料でないと音量調節ができませんが、WARMusicは無料ですべてのコマンドが使用できます。
+
+🤖WARBot: https://discord.com/api/oauth2/authorize?client_id=473006066116984842&permissions=8&scope=bot
+🎶WARMusic: https://discord.com/api/oauth2/authorize?client_id=550769348944330797&permissions=8&scope=bot
+
+## OpenWorld.net (Misskey)
+
+分散型ミニブログサーバーMisskeyのインスタンス、OpenWorld.netを運営しています。
+自由に登録が可能で、マナーと公序良俗に反しなければ特にルールはありません。
+
+🌌OpenWorld.net: https://misskey.open-w.net/
+
+# Accounts
 
 |      |          |                                                    |      |         |                                                              |      |            |                                                    |
 | ---- | -------- | -------------------------------------------------- | ---- | ------- | ------------------------------------------------------------ | ---- | ---------- | -------------------------------------------------- |
@@ -18,10 +56,3 @@
 | 💻    | Github   | [@Chipsnet](https://github.com/Chipsnet)           | 🌌    | Misskey | [@minato86@misskey.open-w.net](https://misskey.open-w.net/@minato86) | 🎨    | Pixiv      | [21745249](https://www.pixiv.net/users/21745249)   |
 | 📑    | Scrapbox | [/minato86](/minato86)                             | 🖥    | YouTube | [minato86](https://www.youtube.com/c/minato86)               | 📞    | Discord    | 巳波みなと#6885                                    |
 | 📺    | NicoNico | [45239445](https://www.nicovideo.jp/user/45239445) | 🔑    | Keybase | [minato86](https://keybase.io/minato86)                      | 🎮    | Steam      | [minato86](https://steamcommunity.com/id/minato86) |
-
-## Donation
-
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A81VPXD)
-[![](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/minato86/donate)
-
-[Donate with brave](https://brave.com/ope682)
