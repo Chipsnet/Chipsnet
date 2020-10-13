@@ -65,6 +65,15 @@ TeamOpenWorldにて運営。
 🔗HP: https://tokyounderground.net/     
 🕊Twitter: https://twitter.com/undergrounet
 
+### 限界創作村
+
+クリエイター向けの大型Discordサーバーです。       
+クリエイターの交流や情報共有を目的としています。
+
+ちなみに私が村長です。
+
+📞Discord: https://discord.gg/cVQZaxp
+
 # Software
 
 ### BlenderHub
