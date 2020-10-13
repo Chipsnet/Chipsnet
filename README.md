@@ -55,6 +55,14 @@ WARBot には便利機能などがあり、WARMusic は音楽 Bot です。
 
 ▶Playlist: https://www.youtube.com/playlist?list=PLPRh71R74VuIbyk6N7dPzghMUQN6oIAM0
 
+### TokyoUnderground
+
+楽曲プロモーションネットワーク兼レーベル。      
+たまにコンピレーションをやったり音楽関係の活動をしています。
+
+🔗HP: https://tokyounderground.net/     
+🕊Twitter: https://twitter.com/undergrounet
+
 # Software
 
 ### BlenderHub
