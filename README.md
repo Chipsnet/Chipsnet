@@ -69,7 +69,7 @@ Blender用のバージョン管理ツールです。
 インターネットサービスや企画、楽曲プロモーションネットワークを運営する団体です。        
 現在はTokyoUndergroundの運営を主に活動しています。
 
-🔗HP: https://open-w.net/
+🔗HP: https://open-w.net/       
 🕊Twitter: https://twitter.com/openworld_net
 
 # Accounts
