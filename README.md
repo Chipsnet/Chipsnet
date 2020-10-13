@@ -24,27 +24,27 @@
 
 ## 限界大会
 
-クリエイター向け創作企画「限界大会」を運営しています。
+クリエイター向け創作企画「限界大会」を運営しています。      
 「思いっきり創作しよう」がテーマの、誰でも参加可能な創作大会です。
 
-🔗HP: https://genkai.open-w.net
-🕊Twitter: https://twitter.com/genkai_eizo
-🛒Suzuri: https://suzuri.jp/Minato86/omoide/17060
-📞Discord: https://discord.com/invite/6tAqA7s
+🔗HP: https://genkai.open-w.net         
+🕊Twitter: https://twitter.com/genkai_eizo          
+🛒Suzuri: https://suzuri.jp/Minato86/omoide/17060       
+📞Discord: https://discord.com/invite/6tAqA7s       
 
 ## WARBot / WARMusic
 
-Discord の Bot です。
+Discord の Bot です。       
 WARBot には便利機能などがあり、WARMusic は音楽 Bot です。
 
 通常、音楽 Bot は有料でないと音量調節ができませんが、WARMusic は無料ですべてのコマンドが使用できます。
 
-🤖WARBot: https://discord.com/api/oauth2/authorize?client_id=473006066116984842&permissions=8&scope=bot
+🤖WARBot: https://discord.com/api/oauth2/authorize?client_id=473006066116984842&permissions=8&scope=bot     
 🎶WARMusic: https://discord.com/api/oauth2/authorize?client_id=550769348944330797&permissions=8&scope=bot
 
 ## OpenWorld.net (Misskey)
 
-分散型ミニブログサーバー Misskey のインスタンス、OpenWorld.net を運営しています。
+分散型ミニブログサーバー Misskey のインスタンス、OpenWorld.net を運営しています。       
 自由に登録が可能で、マナーと公序良俗に反しなければ特にルールはありません。
 
 🌌OpenWorld.net: https://misskey.open-w.net/
