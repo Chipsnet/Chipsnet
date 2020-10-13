@@ -57,6 +57,21 @@ Blender用のバージョン管理ツールです。
 
 💻Github: https://github.com/Chipsnet/blender-hub
 
+# Organization
+
+### 限界大会運営チーム
+
+限界大会を運営するチームです。      
+私含めて現在3人で運営しています。
+
+### TeamOpenWorld
+
+インターネットサービスや企画、楽曲プロモーションネットワークを運営する団体です。        
+現在はTokyoUndergroundの運営を主に活動しています。
+
+🔗HP: https://open-w.net/
+🕊Twitter: https://twitter.com/openworld_net
+
 # Accounts
 
 |     |          |                                                    |     |         |                                                                      |     |            |                                                    |
