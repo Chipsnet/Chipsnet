@@ -19,7 +19,8 @@
 
 # Services
 
-運営中のサービス一覧です。
+運営中のサービス一覧です。      
+終了したサービス一覧は[こちら](./killedbyme.md)を参照。
 
 ### 限界大会
 
@@ -96,6 +97,10 @@ Blender用のバージョン管理ツールです。
 🔗HP: https://genkaimusic.com/      
 🕊Twitter: https://twitter.com/genkaimusic      
 ☁SoundCloud: https://soundcloud.com/genkaimusic
+
+# Works
+
+やったこととかの活動は[こちら](./works.md)の一覧表を参照。
 
 # Accounts
 
